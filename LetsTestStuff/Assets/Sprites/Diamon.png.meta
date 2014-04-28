@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 574ce045978194b0c9abf1aa9040abe4
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Diamon_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_47
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Diamon_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
